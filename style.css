@@ -1,0 +1,64 @@
+form
+{
+width: 30%;
+margin: 0px auto;
+padding: 20px;
+border: 1px solid #B0C4DE;
+background: white;
+border-radius: 0px 0px 10px 10px;
+}
+.header
+{
+width: 30%;
+margin: 50px auto 0px;
+color: white;
+background: #b56262;
+text-align: center;
+border: 1px solid #b2f582;
+border-bottom: none;
+border-radius: 10px 10px 0px 0px;
+padding: 20px;
+}
+.input-group
+{
+margin: 10px 0px 10px 0px;
+}
+.input-group label
+{
+display: block;
+text-align: left;
+margin: 3px;
+}
+.input-group input
+{
+height: 30px;
+width: 93%;
+padding: 5px 10px;
+font-size: 16px;
+border-radius: 5px;
+border: 1px solid black;
+}
+.btn
+{
+padding: 10px;
+font-size: 15px;
+color: white;
+background: #b56262;
+border: none;
+border-radius: 5px;
+}
+.homel
+{
+position:absolute;
+top:0;
+right:0;
+}
+a:link, a:visited
+{
+background-color: #040029;
+color: white;
+padding: 14px 25px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+}
